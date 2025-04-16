@@ -2,8 +2,6 @@
 
 Repositorio unificado para el desarrollo de múltiples proyectos relacionados con la arquitectura de eventos en entornos distribuidos. El objetivo principal es experimentar, comparar y demostrar diferentes enfoques técnicos para la construcción de sistemas basados en eventos, utilizando buenas prácticas de ingeniería de software.
 
-Ejecutndo la información optenida del curso https://www.udemy.com/course/arquitectura-software-moderna-ddd-eventos-microservicios-cqrs/?couponCode=KEEPLEARNING
-Del repositorio https://github.com/danielblanco96/arquitectura-software-udemy
 
 ## 🎯 Objetivos
 
